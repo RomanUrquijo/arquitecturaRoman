@@ -18,7 +18,7 @@ La API permitira al usuario obtener y almacenar informacion correspondiente a pr
 
 ### Clonar el repositorio:
 ```
-    git clone 
+    git clone https://github.com/RomanUrquijo/arquitecturaRoman.git
     cd clase
 ```
 
